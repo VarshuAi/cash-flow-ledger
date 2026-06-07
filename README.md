@@ -38,7 +38,7 @@ version: 1.0
 type: Repository
 author: VarshuAi
 description: >
-  Business sheet auditing monthly incomes against expenditure parameters.
+  name: cash-flow-ledger version: 1.0 type: Repository author: VarshuAi description: >   Business sheet auditing monthly incomes against expenditure parameters. primary_tech: CSS
 primary_tech: CSS
 ```
 
